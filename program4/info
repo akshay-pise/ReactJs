@@ -1,1 +1,7 @@
-
+In this program i cover 5 point
+1. create react app
+2. show a heading that says hello sir, good morning, if time is between 1 to 11am.
+3.  good afternoon, if 12pm to 7pm.
+4. good night, if 7pm till midnight.
+5. apply css in it, dynamically change the color of greeting parts only using inline css style
+  ex. Green,Orange,Gray etc..
