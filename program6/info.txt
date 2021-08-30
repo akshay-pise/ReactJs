@@ -1,1 +1,2 @@
-information about the program
+information about the program....
+creating simple calculator function as addition, substraction, multiplication and division
